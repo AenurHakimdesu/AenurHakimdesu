@@ -1,17 +1,8 @@
-## Hi there 👋
-
-<!--
-**AenurHakimdesu/AenurHakimdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...![hq720](https://github.com/user-attachments/assets/2d1258dc-e2ec-439b-955c-73bb532a3a80)
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40f82caf-7ed6-43cb-9290-faaa3b5c49be" width="600" height="600"></img>
+  <br></br>
+  <img src="https://github.com/user-attachments/assets/862d2f68-41bf-419f-a423-6240264508bf" width="500" height="500"></img>
+</p>
+<p align="center">
+  <strong>Idk, I'm high key obsessed with her... 🥱😴</strong>
+</p>
